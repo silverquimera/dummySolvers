@@ -1,3 +1,5 @@
+import numpy as np
+
 def diag2(x):
     """
     Return diagonal matrix diag(x). Different to np.diag as np.diag of the zero vector returns a 1x1 matrix always.
