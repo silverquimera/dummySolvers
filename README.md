@@ -1,5 +1,5 @@
 # dummySolvers
-Basic implementations of linear algebra algorithms and solves. Currently, the package contain basic implementations of LU, LDL decompositions along with its respective solvers for linear equations (forward/barckward substitution solvers). We also have a simple LP solver using a interior point method (dummified version of Mehrotra's method). Here are some examples (for more, check out the notebook).
+Basic implementations of linear algebra algorithms and solvers. Currently, the package contain basic implementations of LU, LDL decompositions along with its respective solvers for linear equations (forward/barckward substitution solvers). We also have a simple LP solver using a interior point method (dummified version of Mehrotra's method). Here are some examples (for more, check out the notebook).
 
 ## LU factorization
 
